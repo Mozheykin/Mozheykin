@@ -2,6 +2,8 @@
 
 ### Hi, I'm Igor Mozheykin.
 
+To contact me via telegram: https://t.me/LEGALWings
+
 ### About me:
 
 <ul>
