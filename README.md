@@ -2,7 +2,11 @@
 
 ### Hi, I'm Igor Mozheykin.
 
-To contact me via telegram: https://t.me/LEGALWings
+### Contacts:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mozheykin.igor@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LEGALWings)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/89211055750)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/597543692336889856/)
 
 ### About me:
 
@@ -80,9 +84,3 @@ To contact me via telegram: https://t.me/LEGALWings
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mozheykin&show_icons=true&theme=radical)](https://github.com/Mozheykin/github-readme-stats)
 <hr>
-
-## Contacts:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mozheykin.igor@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LEGALWings)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/89211055750)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/597543692336889856/)
