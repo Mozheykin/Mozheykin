@@ -34,9 +34,11 @@
 <hr>
 
 ### Data Base:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
 <hr>
 
 ### Libraries and Frameworks:
@@ -62,14 +64,25 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
 <hr>
 
 ### Operating system:
-![Linux](https://img.shields.io/badge/-Linux-1b1e26?style=for-the-badge&logo=Linux&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-FFFFFF?style=for-the-badge&logo=debian&logoColor=red)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=fff)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
+<hr>
+
+### Collaboration Tools:
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
+![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)
 <hr>
 
 ### Contacts:
