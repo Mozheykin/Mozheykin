@@ -67,6 +67,7 @@
 ### Operating system:
 ![Linux](https://img.shields.io/badge/-Linux-1b1e26?style=for-the-badge&logo=Linux&logoColor=FFFFFF)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-FFFFFF?style=for-the-badge&logo=debian&logoColor=red)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <hr>
